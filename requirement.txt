@@ -1,0 +1,7 @@
+requests
+gutenberg
+numpy
+tensorflow
+scikit-learn
+unidecode
+matplotlib
