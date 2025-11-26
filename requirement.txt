@@ -5,3 +5,5 @@ tensorflow
 scikit-learn
 unidecode
 matplotlib
+spacy
+scipy
