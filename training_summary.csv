@@ -1,0 +1,4 @@
+Modelo,Epocas,Best_Val_Loss,Best_Val_Perplexity,Best_Val_Accuracy
+LSTM,12,1.231427,3.4261,0.608586
+SimpleRNN,20,1.882706,6.5713,0.402416
+GRU,12,1.274917,3.5784,0.598457
